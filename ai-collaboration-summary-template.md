@@ -6,7 +6,7 @@ Rename this file to `ai-collaboration-summary.md` before submitting.
 
 **Domain:** [Your chosen domain]
 
-**AI tools used:** [e.g., GitHub Copilot, Claude, ChatGPT]
+**AI tools used:** [Claude]
 
 ---
 
@@ -14,11 +14,11 @@ Rename this file to `ai-collaboration-summary.md` before submitting.
 
 ### What I asked AI to help with
 
-[Describe the prompts you used to generate or refine your data]
+I asked the AI to help me get an understanding of certain moods that would be required to play certain games
 
 ### What I verified or changed
 
-[List any corrections you made to AI-generated data]
+I made sure that the moods seemed to match the video game as closely as possible
 
 ---
 
@@ -28,11 +28,11 @@ Rename this file to `ai-collaboration-summary.md` before submitting.
 
 | Function name | What it does        | How AI helped              |
 | ------------- | ------------------- | -------------------------- |
-| [name]        | [brief description] | [generated/refined/edited] |
+| getAllMoods() | Calls all moods     | Gave me a suggestions for how to                           organize the code |
 
 ### Code I had to fix or adjust
 
-[Describe any issues with AI-generated code and how you fixed them]
+I had no issues with the AI generated code
 
 ---
 
@@ -40,15 +40,15 @@ Rename this file to `ai-collaboration-summary.md` before submitting.
 
 ### What worked well
 
-[Describe effective prompts or AI interactions]
+The AI is really good at explaining itself, like why it made additions and changes. 
 
 ### What was challenging
 
-[Describe difficulties with AI or where you had to work independently]
+I think understanding it all is my biggest issue, when explained to me it all makes sense immediatley, but when I try to understand it myself, I have issues.
 
 ### What I learned
 
-[Key takeaways about working with AI on code]
+The AI has come a long way, it can tailor your needs be nearly exactly what you want, while people are still needed for really specidic details, the AI can do the majority of the heavy lifting
 
 ---
 
@@ -56,7 +56,7 @@ Rename this file to `ai-collaboration-summary.md` before submitting.
 
 | Task              | Approximate time |
 | ----------------- | ---------------- |
-| Data design       | [time]           |
-| Writing functions | [time]           |
-| Connecting UI     | [time]           |
-| Testing/debugging | [time]           |
+| Data design       | [time]  12:11    |
+| Writing functions | [time]  12:25    |
+| Connecting UI     | [time]  12:39    |
+| Testing/debugging | [time]  12:48    |
