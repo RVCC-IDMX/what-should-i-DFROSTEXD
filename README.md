@@ -4,11 +4,11 @@ A personalized recommendation tool built with JavaScript.
 
 ## About this project
 
-**Your domain:** [Replace with your chosen domain]
+**Your domain:** Video Games
 
-**Your question:** What should I [watch/eat/play/etc.]?
+**Your question:** What should I Play?
 
-**Description:** [Describe what your recommendation tool helps users decide]
+**Description:** This reccommendation system helps users who don't know exactly what to play a recommenation based on the genre of game, their mood, and how much time they have.
 
 ## How it works
 
